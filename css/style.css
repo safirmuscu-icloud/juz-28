@@ -372,3 +372,15 @@ footer p {
     }
     
     }
+
+    
+@media only screen and (min-width: 300px) and (max-width: 400px) {
+    h2 {
+        font-size: 1em;
+
+    }
+
+    ul {
+        font-size: 0.7em;
+    }
+}
